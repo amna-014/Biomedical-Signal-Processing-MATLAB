@@ -38,11 +38,11 @@ Designed a Bandpass Filter to isolate specific physiological frequencies.
 
 ### Frequency Response (FIR Filter)
 The Magnitude response shows clear attenuation outside the 1-2kHz band, while the Phase response is linear.
-![Filter Response]()
+![Filter Response](https://github.com/amna-014/Biomedical-Signal-Processing-MATLAB/blob/main/magnitude%20and%20response.jpg?raw=true)
 
 ### Stability Analysis (Pole-Zero Plot)
 Visual confirmation that system poles (x) are contained within the unit circle.
-![Pole Zero Plot]()
+![Pole Zero Plot](https://github.com/amna-014/Biomedical-Signal-Processing-MATLAB/blob/main/pole%20zero%20plot.jpg?raw=true)
 
 ## 📂 Repository Contents
 * **📄 Project Report:** Detailed mathematical derivation and design process.
